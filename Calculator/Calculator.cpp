@@ -8,7 +8,6 @@ int main()
     double result = 0.0;
     char oper = '+';
     char oper2 = '+';
-    bool open = true;
 
     std::cout << "A simple calculator console app" <<"\t\t|\tSupported formats :\n" 
                 << "Please enter an operation. " << "\t\t|\ta + b | a - b | a * b | a / b| a ^ b\n"
